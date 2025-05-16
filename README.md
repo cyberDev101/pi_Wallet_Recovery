@@ -9,3 +9,9 @@ Requirements:
 
 
 Coming Soooooon💯
+
+not published here for some reason 😕...
+
+
+Other Tools:
+pi wallet address generator from 24 phrase keys... coming soon 
