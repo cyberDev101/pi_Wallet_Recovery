@@ -14,4 +14,6 @@ not published here for some reason 😕...
 
 
 Other Tools:
-pi wallet address generator from 24 phrase keys... coming soon 
+pi wallet address generator from 24 phrase keys.... coming soon 
+
+
